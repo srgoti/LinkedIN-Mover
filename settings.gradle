@@ -1,0 +1,2 @@
+rootProject.name = "LinkedIn mover"
+include ':app'
